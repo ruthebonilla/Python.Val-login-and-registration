@@ -1,0 +1,32 @@
+#container{
+    display: flex;
+    gap: 50px;
+    padding: 50px;
+    margin: auto;
+    width: 80%;
+}
+
+h1{
+    padding: 10px;
+    text-align: center;
+}
+
+.left, .right{
+    background-color: rgb(156, 141, 165);
+    width: 700px;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+h3{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.messages{
+    text-align: center;
+}
+
+.btn{
+    border-width: 3px;
+}
